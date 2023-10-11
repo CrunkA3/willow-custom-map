@@ -5,7 +5,7 @@ const config = {
         "containerId": "map"
     },
     "image": {
-        "url": "https://eeve.com/swfiles/files/Weedy-1.png?nc=1695985256", //must be an https:// or start chrome with ....\chrome.exe --allow-file-access-from-files
+        "url": "img/Weedy-1.png", //chrome.exe --allow-file-access-from-files
         "coordinates": [
             [3.438457, 50.868191],  //top left
             [3.439126, 50.868411],  //top right
